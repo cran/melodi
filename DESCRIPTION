@@ -1,6 +1,6 @@
 Package: melodi
 Title: Download Insee French Institute of Statistics Open Data
-Version: 1.1.0
+Version: 1.1.2
 Authors@R: c(
     person("Cédric", "Bobinec", , "cedric.bobinec@insee.fr", role = c("aut", "cre")),
     person("Christophe", "Goudeau", , "christophe.goudeau@insee.fr", role = "aut"),
@@ -24,10 +24,10 @@ Config/testthat/edition: 3
 Encoding: UTF-8
 Language: fr
 NeedsCompilation: no
-Packaged: 2026-07-20 07:46:26 UTC; onyxia
+Packaged: 2026-08-28 14:07:36 UTC; onyxia
 Author: Cédric Bobinec [aut, cre],
   Christophe Goudeau [aut],
   Institut national de la statistique et des études économiques [cph]
 Maintainer: Cédric Bobinec <cedric.bobinec@insee.fr>
 Repository: CRAN
-Date/Publication: 2026-07-29 16:40:09 UTC
+Date/Publication: 2026-08-28 16:50:02 UTC

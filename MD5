@@ -1,8 +1,8 @@
-eeda790952c1b0b429b7392081635554 *DESCRIPTION
+49d76a20ad58ccb9ce92ac4e488037ae *DESCRIPTION
 64f1c522c0ff476daa18b8e90365bf65 *LICENSE
 b659464a9180dc5646d78f7a0fd49159 *NAMESPACE
-6af6fa83bd7398b565cd9b0a645f92b4 *NEWS.md
-e841d88fa5d0ba987d2a9327ea447d87 *R/get_all_data.R
+12a26a3bb50e8c940ff6b85440f40695 *NEWS.md
+a17ce9145d1ee4eccfc38957c777083c *R/get_all_data.R
 58cf737404778da7f3221b1b9e47747f *R/get_catalog.R
 3f15cf47944883e81153c2ebd577a606 *R/get_data.R
 43518523b53fb218bc92a28f7c51400b *R/get_file.R
@@ -14,7 +14,7 @@ dac3a449ac6e4e2d4a7992582c4f7ba0 *R/get_local_data_by_com.R
 9d3241bfe5ed5057777e6f1400373886 *R/globals.R
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
 30d54cb1e13a59303997079970b19bc7 *R/zzz.R
-0febaf08351418f12c0a211a35ed7b9b *README.md
+2ca7b3d37b5de6431dd5af6ad10c30a1 *README.md
 963d66022d0dcd71b860861ab278e956 *build/vignette.rds
 2f694180b72aadc1088203378cdaa3a6 *inst/doc/A-filtre-explorateur.R
 968a79ca9c2541f50ad501d9733cc057 *inst/doc/A-filtre-explorateur.Rmd
@@ -65,7 +65,7 @@ c11885608e14c30235d849df5e6e3e69 *tests/testthat/_vcr/get_local_data_popref.yml
 ec1e1eb527413f65af2e74f5c0c8941a *tests/testthat/_vcr/get_range_fr.yml
 791d9b720f0c9cb5bda9fd00a4811e5a *tests/testthat/_vcr/get_range_geo_DS_IPCH_M.yml
 c851a2ebcaeb54286ac1c84d8be80ddc *tests/testthat/_vcr/get_range_geo_ec_deces.yml
-a8304f6e0ff2018f234373f1953ec27d *tests/testthat/test-get_all_data.R
+d673008e900f4ff684e25177b173a7ce *tests/testthat/test-get_all_data.R
 59b308cb3c6eee1e2327a08f2a713e5a *tests/testthat/test-get_catalog.R
 0b019bc1f5534bdb38759365e26b88ad *tests/testthat/test-get_data.R
 2ddbe618f7b278f1fd1bc8dfc8ccb006 *tests/testthat/test-get_file.R
