@@ -5,6 +5,7 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R-CMD-check](https://github.com/InseeFrLab/melodi/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/InseeFrLab/melodi/actions/workflows/R-CMD-check.yaml)
 [![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/melodi)](https://www.r-pkg.org/pkg/melodi)
+[![codecov](https://codecov.io/github/InseeFrLab/melodi/graph/badge.svg?token=849S6LIOHR)](https://app.codecov.io/github/InseeFrLab/melodi)
 <!-- badges: end -->
 
 🇫🇷 Télécharger, parcourir, filtrer les données et métadonnées diffusées par l'Insee en open data
@@ -46,8 +47,6 @@ data <- get_all_data("DS_POPULATIONS_REFERENCE")
 
 ### Authentification et quota de requêtes
 Le package repose sur l'API Melodi, accessible sans authentification.
-
-Son usage est limité à **30 requêtes par minute** : au delà, un code réponse **429** est obtenu.
 
 ### Proxy
 
